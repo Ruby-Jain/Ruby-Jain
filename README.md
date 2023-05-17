@@ -1,4 +1,5 @@
-![226190894-18e959ba-d458-4a94-ac44-790190f2a947](https://github.com/Ruby-Jain/Ruby-Jain/assets/74794352/3d67a227-81bb-4b5d-849c-d8b53fc2c460)
+![226190894-18e959ba-d458-4a94-ac44-790190f2a947](https://github.com/Ruby-Jain/Ruby-Jain/assets/74794352/b6e7e28c-5699-41fd-8c92-0be0893ebfd7)
+
 
 
 - 👋 Hi, I’m a passionate Front End Developer
@@ -15,4 +16,6 @@
 - 🛢    MySQL
 - ⚙️     Git GitHub 
 - 🔧    VS Code
+
+<a href="https://twitter.com/_______user_name_here________"
 
