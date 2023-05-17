@@ -1,7 +1,7 @@
 # Hi, I'm Ruby <img align="center" src="https://i.pinimg.com/originals/b9/37/12/b9371273ae94a946e92074d1b9696680.gif" width="60" height="60" alt="gif">👩‍💻
 <img align="center" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" width="400" height="300" alt="girl coding img" >
 
-## About Me
+## 👩🏼‍💼 About Me
 
 - 👋 Hi, I’m an enthusiastic & ambitious Front End Developer.
 - 👀 I’m interested in topics related to my domain.
@@ -9,7 +9,7 @@
 - 💞️ I’m looking to collaborate on Front End Projects(JS & React)
 - 📩 How to reach me rjflyhigh21@gmail.com
 
-## 🛠  Tech Stack
+## 👩🏼‍💻  Tech Stack
 
 - 💻📱  Responsive Web & Mobile Apps (Android & IOS)
 - 🛠    HTML5 CSS JavaScript Typescript ES6 React.js React-Query Redux React-Native Node.js
