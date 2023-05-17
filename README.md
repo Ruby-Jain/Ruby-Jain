@@ -1,5 +1,7 @@
-Hi, I'm Ruby [68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f62392f33372f31322f62393337313237336165393461393436653932303734643162393639363638302e676966](https://github.com/Ruby-Jain/Ruby-Jain/assets/74794352/cc1438e4-7648-4e8b-ab8f-26c0ff8974b6) 👩‍💻
-![213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7](https://github.com/Ruby-Jain/Ruby-Jain/assets/74794352/6a89c496-cdd7-4404-8f9d-a16fd994f9ab)
+Hi, I'm Ruby ![68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f62392f33372f31322f62393337313237336165393461393436653932303734643162393639363638302e676966](https://github.com/Ruby-Jain/Ruby-Jain/assets/74794352/6e99dff6-0a1f-4f0a-b1a8-0dc59dfd3600)
+ 👩‍💻!
+__________________________________________________________________________________________________________________________________
+[68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313630302f302a4b32574c4d5445784c79696461374f522e676966](https://github.com/Ruby-Jain/Ruby-Jain/assets/74794352/eb40322c-e5dc-4b8b-833e-90bf1f5e1fb6)
 - 👋 Hi, I’m an enthusiastic & ambitious Front End Developer.
 - 👀 I’m interested in topics related to my domain.
 - 🌱 I’m a passionate learner and currently learning MERN stack
