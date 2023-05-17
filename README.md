@@ -1,6 +1,6 @@
-Hi, I'm Ruby 👩‍💻
-__________________________________________________________________________________________________________________________________
-![68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313630302f302a4b32574c4d5445784c79696461374f522e676966](https://github.com/Ruby-Jain/Ruby-Jain/assets/74794352/96c55799-55b8-4e5d-90ce-d96ca77c61fd)
+# Hi, I'm Ruby <img align="center" src="https://i.pinimg.com/originals/b9/37/12/b9371273ae94a946e92074d1b9696680.gif" width="60" height="60" alt="gif">👩‍💻
+<img align="center" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" width="400" height="300" alt="girl coding img" >
+
 - 👋 Hi, I’m an enthusiastic & ambitious Front End Developer.
 - 👀 I’m interested in topics related to my domain.
 - 🌱 I’m a passionate learner and currently learning MERN stack
