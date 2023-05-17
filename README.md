@@ -1,4 +1,4 @@
-# Hi, I'm Ruby <img align="center" src="https://i.pinimg.com/originals/b9/37/12/b9371273ae94a946e92074d1b9696680.gif" width="60" height="60" alt="gif">👩‍💻
+# Hi, I'm Ruby <img align="center" src="https://i.pinimg.com/originals/b9/37/12/b9371273ae94a946e92074d1b9696680.gif" width="60" height="60" alt="gif">👩🏻‍💻
 <img align="center" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" width="400" height="300" alt="girl coding img" >
 
 ## 👩🏼‍💼 About Me
