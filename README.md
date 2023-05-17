@@ -7,7 +7,7 @@
 🛠  Tech Stack
 
 - 💻📱  Responsive Web & Mobile Apps (Android & IOS)
-- 🛠    HTML5 CSS JavaScript Typescript ES6 React.js Redux React-Native Node.js
+- 🛠    HTML5 CSS JavaScript Typescript ES6 React.js React-Query Redux React-Native Node.js
 - 🌐    Bootstrap Styled-Components Storybook MaterialUI ChakraUI
 - 🛢    MySQL
 - ⚙️     Git GitHub 
