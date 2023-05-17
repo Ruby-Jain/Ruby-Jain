@@ -13,6 +13,3 @@
 - 🛢    MySQL
 - ⚙️     Git GitHub 
 - 🔧    VS Code
-
-<a href="https://twitter.com/_______user_name_here________"
-
