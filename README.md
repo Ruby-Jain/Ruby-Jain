@@ -9,7 +9,7 @@
 - 💞️ I’m looking to collaborate on Front End Projects(JS & React)
 - 📩 How to reach me rjflyhigh21@gmail.com
 
-## 👩🏼‍💻  Tech Stack
+## 👩🏻‍💻  Tech Stack
 
 - 💻📱  Responsive Web & Mobile Apps (Android & IOS)
 - 🛠    HTML5 CSS JavaScript Typescript ES6 React.js React-Query Redux React-Native Node.js
