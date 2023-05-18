@@ -9,7 +9,7 @@
 - 💞️ I’m looking to collaborate on Front End Projects(JS & React)
 - 📩 How to reach me rjflyhigh21@gmail.com
 
-## 👩🏻‍💻  Tech Stack
+## 👩🏻‍💻  Tech Stack 
 
 - 💻📱  Responsive Web & Mobile Apps (Android & IOS)
 - 🛠    HTML5 CSS JavaScript Typescript ES6 React.js React-Query Redux React-Native Node.js
@@ -18,9 +18,11 @@
 - ⚙️     Git GitHub 
 - 🔧    VS Code
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruby-Jain&layout=donut&text_bold=true&include_all_commits=true&theme=tokyonight&card_width=250&show_icons=true&hide=swift&langs_count=7)](https://github.com/Ruby-Jain/github-readme-stats)
+
 ## Find me around the web 🌍
 
 <a href="https://github.com/Ruby-Jain"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" width="50" height="50" alt="github"> </a>      <a href="https://www.linkedin.com/in/ruby-jain-0032a1144">
         <img align="center" height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/></a>
 <br><div>
-        ![](https://komarev.com/ghpvc/?username=mayankchaudhary26&color=brightgreen)
+        ![](https://komarev.com/ghpvc/?username=mayankchaudhary26&color=brightgreen)    
