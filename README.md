@@ -17,7 +17,7 @@
 ![React](https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react&logoColor=blue)
 ![React-Native](https://img.shields.io/badge/react-native-%23323330.svg?style=for-the-badge&logo=react-native&logoColor=blue)
 ![Storybook](https://img.shields.io/badge/storybook-%23323330.svg?style=for-the-badge&logo=storybook&logoColor=pink)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23323330.svg?style=for-the-badge&logo=bootstrap&logoColor=%23F7DF1E)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23323330.svg?style=for-the-badge&logo=bootstrap&logoColor=purple)
 ![MUI](https://img.shields.io/badge/mui-%23323330.svg?style=for-the-badge&logo=mui&logoColor=%23F7DF1E)
 ![Chakra](https://img.shields.io/badge/chakra-%23323330.svg?style=for-the-badge&logo=chakraui&logoColor=blue)
 ![Tanstack-Query](https://img.shields.io/badge/tanstack-query-%23323330.svg?style=for-the-badge&logo=tanstack-query&logoColor=%23F7DF1E)
